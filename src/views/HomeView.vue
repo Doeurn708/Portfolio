@@ -1,6 +1,6 @@
 <template>
   <section
-    class="min-h-screen bg-gradient-to-l from-blue-700 to-black text-white flex items-center pt-24 overflow-hidden"
+    class="min-h-screen bg-gradient-to-l py-6 from-blue-700 to-black text-white flex items-center pt-24 overflow-hidden"
   >
     <div class="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-16 items-center">
       <div class="space-y-8 animate-fadeIn">

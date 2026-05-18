@@ -1,5 +1,7 @@
 <template>
-  <section class="w-full min-h-screen bg-gradient-to-r from-blue-900 to-black text-white py-20 px-6">
+  <section
+    class="w-full min-h-screen bg-gradient-to-r from-blue-900 to-black text-white py-20 px-6"
+  >
     <div class="text-center mb-16">
       <h1
         class="text-4xl md:text-5xl font-extrabold text-emerald-400 tracking-widest"
@@ -13,12 +15,10 @@
     <div class="max-w-7xl mx-auto grid md:grid-cols-2 gap-16 items-center">
       <div class="flex justify-center">
         <div class="relative group">
-          <div
-            class="absolute  bg-emerald-400/20 blur-3xl rounded-3xl"
-          ></div>
+          <div class="absolute bg-emerald-400/20 blur-3xl rounded-3xl"></div>
 
           <img
-            class="relative z-10 mb-72 md:w-[200px]  md:h-[250px] object-cover rounded-3xl border-4 hidden md:flex border-emerald-400/30 shadow-2xl group-hover:scale-105 transition duration-500"
+            class="relative z-10 mb-72 md:w-[200px] md:h-[250px] object-cover rounded-3xl border-4 hidden md:flex border-emerald-400/30 shadow-2xl group-hover:scale-105 transition duration-500"
             src="../assets/image/454 (2).JPG"
             alt="Chandoeurn"
           />

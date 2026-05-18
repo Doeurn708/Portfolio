@@ -3,31 +3,29 @@ import HomeView from "../views/HomeView.vue";
 import AboutView from "../views/AboutView.vue";
 import ContactView from "../views/ContactView.vue";
 import ProjectView from "../views/ProjectView.vue";
-
 const router = createRouter({
   history: createWebHistory(),
   routes: [
     {
       path: "/",
-      name: "Home",
+      name: "home",
       component: HomeView,
     },
     {
       path: "/about",
       name: "about-me",
       component: AboutView,
+    }, {
+      path: "/project",
+      name: "Project-me",
+      component:ProjectView
     },
+    
 
     {
       path: "/contact",
-      name: "contact",
+      name: "contact-us",
       component: ContactView,
-    },
-
-    {
-      path: "/project",
-      name: "project",
-      component: ProjectView,
     },
   ],
 });

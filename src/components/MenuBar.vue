@@ -70,7 +70,7 @@ const navLinks = [
   { name: 'Home', path: '/' },
   { name: 'About Me', path: '/about' },
   { name: 'Projects', path: '/project' },
-  { name: 'Contact', path: '/contact' }
+  { name: 'Contact', path: '/contact' },
 ]
 
 const toggleMenu = () => {

@@ -1,14 +1,12 @@
 <script setup lang="ts">
-import MenuBar from './components/MenuBar.vue';
-import Layouts from './layouts/Layouts.vue';
+import Layouts from './layouts/Layouts.vue'
+import { RouterView } from 'vue-router'
+</script>
 
-  </script>
-
-  <template>
+<template>
   <div>
-    <MenuBar/>
-    <main>
-      <Layouts/>
-    </main>
+    <Layouts>
+      <RouterView />
+    </Layouts>
   </div>
 </template>

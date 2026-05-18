@@ -70,4 +70,9 @@ export const skill = [
     percent:50,
     language: "SQL Server",
   },
+  {
+    id: 15,
+    percent:60,
+    language: "JAVA",
+  },
 ];
