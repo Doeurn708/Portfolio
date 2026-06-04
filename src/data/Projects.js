@@ -20,7 +20,7 @@ export const project = [
     name: "D-Shop",
     description:
       "A feature-rich e-commerce platform boasting full product catalogs, dynamic filtering, interactive shopping carts, and secure checkout simulation.",
-    tags: ["Vue 3", "Tailwind CSS"],
+    tags: ["Vue 3", "Tailwind CSS","Java script"],
     liveLink: "https://finally-project-bay.vercel.app/",
     githubLink: "https://github.com/Doeurn-developer/Finally-project",
   },
@@ -30,7 +30,7 @@ export const project = [
     name: "Food Order",
     description:
       "A feature-rich e-commerce platform boasting full product catalogs, dynamic filtering, interactive shopping carts, and secure checkout simulation.",
-    tags: ["Vue 3", "Tailwind CSS"],
+    tags: ["Vue 3", "Tailwind CSS","Java script"],
     liveLink: "https://order-food-kappa-seven.vercel.app/",
     githubLink: "https://github.com/Doeurn-developer/Order-Food-Etec",
   },
@@ -40,7 +40,7 @@ export const project = [
     name: "Air pod shop",
     description:
       "A feature-rich e-commerce platform boasting full product catalogs, dynamic filtering, interactive shopping carts, and secure checkout simulation.",
-    tags: ["React", "Tailwind CSS"],
+    tags: ["React", "Tailwind CSS","Java script"],
     liveLink: "https://airpod-shop.vercel.app/",
     githubLink: "https://github.com/Doeurn708/Airpod-Shop",
   },
