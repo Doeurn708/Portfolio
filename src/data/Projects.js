@@ -2,6 +2,7 @@ import Pj01 from "../assets/image/Project01.png";
 import Pj02 from "../assets/image/Project02.png";
 import Pj03 from "../assets/image/Project03.png";
 import Pj04 from "../assets/image/Project04.png";
+import Pj05 from "../assets/image/Project05.png";
 
 export const project = [
   {
@@ -20,7 +21,7 @@ export const project = [
     name: "D-Shop",
     description:
       "A feature-rich e-commerce platform boasting full product catalogs, dynamic filtering, interactive shopping carts, and secure checkout simulation.",
-    tags: ["Vue 3", "Tailwind CSS","Java script"],
+    tags: ["Vue 3", "Tailwind CSS", "Java script"],
     liveLink: "https://finally-project-bay.vercel.app/",
     githubLink: "https://github.com/Doeurn-developer/Finally-project",
   },
@@ -29,19 +30,19 @@ export const project = [
     img: Pj03,
     name: "Food Order",
     description:
-      "A feature-rich e-commerce platform boasting full product catalogs, dynamic filtering, interactive shopping carts, and secure checkout simulation.",
-    tags: ["Vue 3", "Tailwind CSS","Java script"],
+      ", features a professional web interface for a food ordering platform called Khmer Weekend Food. The design utilizes a clear, user-friendly layout focused on menu presentation and navigation.",
+    tags: ["Vue 3", "Tailwind CSS", "Java script"],
     liveLink: "https://order-food-kappa-seven.vercel.app/",
     githubLink: "https://github.com/Doeurn-developer/Order-Food-Etec",
   },
   {
-    id: 4,
-    img: Pj04,
-    name: "Air pod shop",
+    id: 5,
+    img: Pj05,
+    name: "The Bookshop",
     description:
-      "A feature-rich e-commerce platform boasting full product catalogs, dynamic filtering, interactive shopping carts, and secure checkout simulation.",
-    tags: ["React", "Tailwind CSS","Java script"],
-    liveLink: "https://airpod-shop.vercel.app/",
-    githubLink: "https://github.com/Doeurn708/Airpod-Shop",
+      "Navigation Bar: A minimalist header containing the site logo (The Bookshop), navigation links (Home, Books, About), a search input field, a shopping cart icon, and an Account button.",
+    tags: ["Vue js", "Bootstrap", "Java script"],
+    liveLink: "https://library-system-wine.vercel.app/",
+    githubLink: "https://github.com/Doeurn708/Library_System",
   },
 ];
